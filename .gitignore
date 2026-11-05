@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+**/.vs/
+
+# Archivos de compilación
+bin/
+obj/
+Debug/
+Release/
+
+# Configuraciones locales
+*.user
+*.suo
+*.cache
+
+# Configuración sensible
+appsettings.Development.json

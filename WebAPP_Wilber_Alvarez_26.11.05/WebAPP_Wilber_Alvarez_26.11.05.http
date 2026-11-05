@@ -1,0 +1,6 @@
+@WebAPP_Wilber_Alvarez_26._11._05_HostAddress = http://localhost:5057
+
+GET {{WebAPP_Wilber_Alvarez_26._11._05_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
